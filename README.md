@@ -1,1 +1,2 @@
 # Isorhamnetin-AKT1-Input-Parameters
+All of the files needed to simulate isorhamnetin-AKT1 binding using AMBER Force Field are included in this repository. The first folder contains the initial isorhamnetin structure used for optimization. The protein structures retrieved from PDB database for docking are located in the second folder. All of the files needed to run the MD simulations and determine the thermodynamic parameters are in the third folder. The Python code used to calculate the Interaction Entropy and the C2 Entropy is located in the fourth folder.
