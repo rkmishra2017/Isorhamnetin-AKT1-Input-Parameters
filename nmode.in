@@ -1,8 +1,0 @@
-Input file for running entropy calculations using NMODE
-&general
-   endframe=250000, keep_files=0,
-/
-&nmode
-  nmstartframe=240001, nmendframe=250000, nminterval=50,
-  nmode_igb=1, nmode_istrng=0.1,
-/
